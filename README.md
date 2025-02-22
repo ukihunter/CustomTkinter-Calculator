@@ -9,7 +9,7 @@ A simple calculator built using **CustomTkinter** in Python, featuring a modern 
 - **AC (All Clear)**: Reset the calculator input.  
 - **Responsive UI**: Built with `CustomTkinter`, offering a sleek and modern design.  
 
-## 📸 Screenshot  
+  
 ## 📸 Screenshot  
 ![Calculator UI](ezgif-57bc6beef1ac72.gif)
  
