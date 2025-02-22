@@ -11,7 +11,7 @@ A simple calculator built using **CustomTkinter** in Python, featuring a modern 
 
 ## 📸 Screenshot  
 ## 📸 Screenshot  
-![Calculator UI](screenshot.png)
+![Calculator UI](ezgif-57bc6beef1ac72.gif)
  
 
 ## 🔧 Installation & Usage  
