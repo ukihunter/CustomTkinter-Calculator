@@ -10,7 +10,9 @@ A simple calculator built using **CustomTkinter** in Python, featuring a modern 
 - **Responsive UI**: Built with `CustomTkinter`, offering a sleek and modern design.  
 
 ## 📸 Screenshot  
-_(Add an image of your calculator UI here)_  
+## 📸 Screenshot  
+![Calculator UI](screenshot.png)
+ 
 
 ## 🔧 Installation & Usage  
 1. **Clone the repository**  
